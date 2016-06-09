@@ -1,0 +1,13 @@
+Sound samples used:
+/Users/annaxambo/Sounds/AlgoNoise/input/118631__ongitak__b3-dubstep-loops-6-drums-stem.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/128236__ongitak__b7-dubstep-loops-3_p1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/5145__jovica__attack-loop-140-bpm-31.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/251006__onlytheghosts__badbabdabb-super-loop-140bpm-by-onlytheghosts.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/21916__jppi-stu__numbers-for-free_p1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/339117__sss-samples__break-beat-drum-loop-140-bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/275605__kb7clx__tuning-faux-numbers-station_interferences_p2.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/239514__luckylittleraven__sub-bass-wobble-slide-e1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/130495__dirtyjewbs__dubstep-loop-epic-140bpm_p2.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/23536__percy-duke__pressing-phone-buttons.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/244793__jalastram__experimental-drums-03.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/171393__laspaziale__video-codec-audio-glitches_p8.wav 

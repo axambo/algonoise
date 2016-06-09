@@ -1,0 +1,13 @@
+Sound samples used:
+/Users/annaxambo/Sounds/AlgoNoise/input/137224__dirtyjewbs__dubstep-drumloop-crunch-140bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/124406__jobro__spring-theory_p1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/124692__mikobuntu__tek-glitch.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/251006__onlytheghosts__badbabdabb-super-loop-140bpm-by-onlytheghosts.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/52786__dobroide__japanese-numbers.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/43587__oscillator__breakbeatep-allc-140bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/190485__trip-sound__interferencesonicscape.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/239514__luckylittleraven__sub-bass-wobble-slide-e1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/31899__bloomypetal__add-a-little-bass-wav-beat.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/23536__percy-duke__pressing-phone-buttons.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/114031__dirtyjewbs__glitch-loop.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/171393__laspaziale__video-codec-audio-glitches_p6.wav 

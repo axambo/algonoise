@@ -1,0 +1,13 @@
+Sound samples used:
+/Users/annaxambo/Sounds/AlgoNoise/input/178904__ottorecv8__140-dubstep-loop-2.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/124406__jobro__spring-theory_p4.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/107558__mikobuntu__tekkno.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/159393__dirtyjewbs__8-bit-harmony-140.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/69250__reinsamba__numbers-german-male.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/339117__sss-samples__break-beat-drum-loop-140-bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/275605__kb7clx__tuning-faux-numbers-station_interferences_p1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/190565__goup-1__growl-bass.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/31899__bloomypetal__add-a-little-bass-wav-beat.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/158057__eelke__keyboard-typing-old.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/114031__dirtyjewbs__glitch-loop.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/171393__laspaziale__video-codec-audio-glitches_p1.wav 

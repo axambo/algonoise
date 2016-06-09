@@ -1,0 +1,13 @@
+Sound samples used:
+/Users/annaxambo/Sounds/AlgoNoise/input/130495__dirtyjewbs__dubstep-loop-epic-140bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/124406__jobro__spring-theory_p4.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/23570__djduppy__duppyhouse05-140bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/94275__sirmxe__sivdin-bass-harmony-140-bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/255772__kwahmah-02__e17z_p1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/30198__johnnypanic__rock140bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/46438__noisecollector__interference_p1.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/50848__m-red__wavebaseloop.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/103043__mikobuntu__glitchedout2.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/144120__avakas__keyboard-typing.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/129159__dirtyjewbs__glitch-drumloop-95bpm.wav 
+/Users/annaxambo/Sounds/AlgoNoise/input/171393__laspaziale__video-codec-audio-glitches_p5.wav 
